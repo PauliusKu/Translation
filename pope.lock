@@ -1,0 +1,18 @@
+{
+  "trustedDirectSources": {},
+  "resolved": {"PauliusKu/Language": {
+    "installSubpath": "PauliusKu",
+    "integrity": "sha256:ea779c784c6fd282a6218a7c12b364b95198cbb91a1e32acb505fae05e0179c5",
+    "files": [
+      "PauliusKup/Language/ILanguageRepository.cls",
+      "PauliusKup/Language/ILanguageService.cls",
+      "PauliusKup/Language/Language.cls",
+      "PauliusKup/Language/LanguageError.cls",
+      "PauliusKup/Language/LanguageRepository.cls",
+      "PauliusKup/Language/LanguageService.cls",
+      "PauliusKup/Language/config.i"
+    ],
+    "source": "C:\\Users\\pkuprevicius\\.pope\\cache\\PauliusKu\\Language\\v0.0.1\\src",
+    "version": "0.0.1"
+  }}
+}

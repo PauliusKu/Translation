@@ -1,0 +1,23 @@
+{
+  "name": "ServiceFramework",
+  "version": "1.0",
+  "oeversion": "12.8",
+  "popePackageName": "Translation",
+  "popeDependencies": {"PauliusKu/Language": "^0.0.1"},
+  "buildPath": [
+    {
+      "path": "src",
+      "type": "source"
+    },
+    {
+      "path": "pope_packages/PauliusKu",
+      "type": "source"
+    }
+  ],
+  "charset": "utf-8",
+  "dbConnections": [],
+  "procedures": [],
+  "profiles": [],
+  "graphicalMode": false,
+  "numThreads": 4
+}
