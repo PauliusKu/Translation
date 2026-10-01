@@ -7,7 +7,7 @@
     "repoUrl": "https://github.com/PauliusKu/Language",
     "ref": "v0.0.1"
   }},
-  "popeToolVersion": "0.5.0",
+  "popeToolVersion": "0.5.1",
   "buildPath": [
     {
       "path": "src",
